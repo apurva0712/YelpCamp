@@ -1,44 +1,44 @@
 # YelpCamp
-A Node. js Web Application
+-A Node. js Web Application
 
-Built with
+-Built with:
 
-Front end
+Front end:
 
-Bootstrap 4.0
+-Bootstrap 4.0
 
-ejs
-
-
-Back End
-
-Node. js
-
-Express. js
-
-MongoDB
-
-mLAB
-
-mongoose
-
-passport
-
-passport-local
-
-express-session
-
-method-override
-
-connect-flash
-
-dotenv
-
-body-parser
-
-connect-mongo
+-ejs
 
 
-Text Editor
+Back End:
 
-Visual Studio Code
+-Node. js
+
+-Express. js
+
+-MongoDB
+
+-mLAB
+
+-mongoose
+
+-passport
+
+-passport-local
+
+-express-session
+
+-method-override
+
+-connect-flash
+
+-dotenv
+
+-body-parser
+
+-connect-mongo
+
+
+Text Editor:
+
+-Visual Studio Code
